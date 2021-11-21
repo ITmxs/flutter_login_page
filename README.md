@@ -8,3 +8,17 @@
 
 
 这是页面1的效果
+
+![image-20211121124931951](https://luckly007.oss-cn-beijing.aliyuncs.com/images/image-20211121124931951.png)
+
+
+
+用到的插件有：
+
+
+
+```
+ chewie: ^1.2.2
+ video_player: ^2.2.3
+```
+
